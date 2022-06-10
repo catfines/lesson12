@@ -1,0 +1,13 @@
+ div > span {
+     display: block;     
+     background-color: #0D6EFD;
+     border: 1px solid black;
+     color: black;
+     font-size: 20px;
+     font-weight: bold;
+     text-align: center;
+     margin-top: 20px;
+     margin-bottom: 20px;
+ }
+
+ 
